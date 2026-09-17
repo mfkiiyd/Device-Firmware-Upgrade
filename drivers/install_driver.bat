@@ -33,7 +33,6 @@ if not exist "driver_installer.exe" (
 
 echo.
 echo Installing WinUSB driver, device will show as "UB32 Bootloader" ...
-echo USB IDs are listed in drivers.txt, including 2E3C:DF11 ...
 echo.
 
 driver_installer.exe --all --force "%~dp0drivers.txt"
