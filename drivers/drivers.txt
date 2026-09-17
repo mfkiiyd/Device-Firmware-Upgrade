@@ -1,0 +1,16 @@
+# driver,desc,vid,pid
+# Driver can be one of winusb
+# After install, the device shows in Device Manager as "UB32 Bootloader"
+winusb,UB32 Bootloader,2E3C,DF11
+winusb,UB32 Bootloader,5542,0341
+winusb,UB32 Bootloader,5542,1000
+winusb,UB32 Bootloader,5542,1001
+winusb,UB32 Bootloader,5542,8000
+winusb,UB32 Bootloader,5542,0101
+winusb,UB32 Bootloader,5542,0102
+winusb,UB32 Bootloader,5542,0103
+winusb,UB32 Bootloader,5542,0104
+winusb,UB32 Bootloader,5542,0105
+winusb,UB32 Bootloader,5542,0106
+winusb,UB32 Bootloader,5542,0107
+winusb,UB32 Bootloader,5542,0108
